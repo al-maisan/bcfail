@@ -4,7 +4,7 @@
 
  * email: [mh@sygnum.com](mailto:mh@sygnum.com)
  * company web site: [sygnum.com](https://sygnum.com){:target="_blank"}
- * secure email: [mh@sygnum.io](mailto:mh@sygnum.io), gpg: [`6E05 7FA3 9B54 A2F1 8734  29FF FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"}
+ * secure email: [mh@sygnum.io](mailto:mh@sygnum.io), gpg: [`6E05 7FA3 9B54 A2F1 8734  29FF FA6B 95BC D189 F332`](https://pool.sks-keyservers.net/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"}
 
 ## Non-work
 
