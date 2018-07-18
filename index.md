@@ -8,7 +8,7 @@
 
 ## Non-work
 
- * email: [muharem@linux.com](mailto:muharem@linux.com), [download gpg key : `753B 6ECF 2B45 8FF3 D19D  568C 1E0A 2883 97AE 739E](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1E0A288397AE739E){:target="_blank"}
+ * email: [muharem@linux.com](mailto:muharem@linux.com), [download gpg key: `753B 6ECF 2B45 8FF3 D19D  568C 1E0A 2883 97AE 739E`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1E0A288397AE739E){:target="_blank"}
  * linkedin: [https://www.linkedin.com/in/mhrnjad/](https://www.linkedin.com/in/mhrnjad/){:target="_blank"}
  * twitter: [https://twitter.com/al_maisan](https://twitter.com/al_maisan){:target="_blank"}
  * keybase: [https://keybase.io/al_maisan](https://keybase.io/al_maisan){:target="_blank"}
