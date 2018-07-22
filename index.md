@@ -16,4 +16,4 @@
  * keybase: [https://keybase.io/al_maisan](https://keybase.io/al_maisan){:target="_blank"}
 
 
-Please note: the [commits](https://github.com/al-maisan/bcfail/commits/master) were signed by this key: [1E0A288397AE739E](https://pgp.cs.uu.nl/stats/1e0a288397ae739e.html) which is in [the strong set](https://pgp.cs.uu.nl/plot/).
+**Please note**: the [commits to this page](https://github.com/al-maisan/bcfail/commits/master) were signed by this key: [1E0A288397AE739E](https://pgp.cs.uu.nl/stats/1e0a288397ae739e.html) which is in [the strong set](https://pgp.cs.uu.nl/plot/).
