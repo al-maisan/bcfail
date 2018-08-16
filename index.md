@@ -1,11 +1,26 @@
 # Muharem Hrnjadovic
 
-## Work!?
+## Work?
 
+ * Chief bit flipper (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"}
  * email: [mh@sygnum.com](mailto:mh@sygnum.com)
- * company web site: [sygnum.com](https://sygnum.com){:target="_blank"}
  * secure email: [mh@sygnum.io](mailto:mh@sygnum.io)
     * [download gpg key: `6E05 7FA3 9B54 A2F1 8734  29FF FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"}
+
+### Open positions
+
+ * Warsaw
+   * [Backend software developer](https://web.tresorit.com/l#9RK7fuP9IBdZ9JKQJv-xwg){:target="_blank"}
+   * [Security engineer](https://web.tresorit.com/l#5AsFvAnyP_hCNZbKHKwpgw){:target="_blank"}
+   * [Site reliability engineer (SRE)](https://web.tresorit.com/l#2BZrxY3Aujh3u0eVYvQhuw){:target="_blank"}
+   * [Software Engineer, Tools and Infrastructure (SETI)](https://web.tresorit.com/l#o4O2ZmJmmXL8ESoz3U_gMw){:target="_blank"}
+   * [Technical lead](https://web.tresorit.com/l#GJMYWEyNaEHYuotqUf3XKQ){:target="_blank"}
+
+ * Remote (European time zones)
+   * [Fullstack developer](https://web.tresorit.com/l#A8Ol3Q1aUUZsUX3VUXYBQw){:target="_blank"}
+
+ * Zürich
+   * [Security engineer](https://web.tresorit.com/l#KY_FPe9AvGeqVsO_f5Y7UA){:target="_blank"}
 
 ## Play?
 
