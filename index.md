@@ -28,4 +28,4 @@
  * keybase: [https://keybase.io/al_maisan](https://keybase.io/al_maisan){:target="_blank"}
 
 
-**Please note**: [commits to this page](https://github.com/al-maisan/bcfail/commits/master){:target="_blank"} were signed with [`1E0A288397AE739E`](https://pgp.cs.uu.nl/stats/1e0a288397ae739e.html){:target="_blank"} which is in the [strong set](https://pgp.cs.uu.nl/plot/){:target="_blank"}.
+**Please note**: [commits to this page](https://github.com/al-maisan/bcfail/commits/master){:target="_blank"} were signed with [`1E0A 2883 97AE 739E`](https://pgp.cs.uu.nl/stats/1e0a288397ae739e.html){:target="_blank"} which is in the [strong set](https://pgp.cs.uu.nl/plot/){:target="_blank"}.
