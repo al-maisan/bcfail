@@ -3,7 +3,6 @@
 ## Work?
 
  * Chief bit flipper (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"}
- * email: [mh@sygnum.com](mailto:mh@sygnum.com)
  * secure email: [mh@sygnum.io](mailto:mh@sygnum.io) ([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
 
 ### Open positions
