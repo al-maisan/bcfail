@@ -5,7 +5,7 @@
  * Chief bit flipper (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"}
  * secure email: [mh@sygnum.io](mailto:mh@sygnum.io) ([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
 
-### Open positions
+### I am hiring!
 
  * Warsaw
    * [Backend software developer](https://web.tresorit.com/l#9RK7fuP9IBdZ9JKQJv-xwg){:target="_blank"}
