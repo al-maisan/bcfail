@@ -4,7 +4,7 @@
 
  * Chief bit flipper (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"}
  * email: [mh@sygnum.com](mailto:mh@sygnum.com)
- * secure email: [mh@sygnum.io](mailto:mh@sygnum.io)([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
+ * secure email: [mh@sygnum.io](mailto:mh@sygnum.io) ([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
 
 ### Open positions
 
@@ -23,7 +23,7 @@
 
 ## Play?
 
- * email: [muharem@linux.com](mailto:muharem@linux.com)([`1E0A 2883 97AE 739E`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1E0A288397AE739E){:target="_blank"})
+ * email: [muharem@linux.com](mailto:muharem@linux.com) ([`1E0A 2883 97AE 739E`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1E0A288397AE739E){:target="_blank"})
  * linkedin: [https://www.linkedin.com/in/mhrnjad/](https://www.linkedin.com/in/mhrnjad/){:target="_blank"}
  * twitter: [https://twitter.com/al_maisan](https://twitter.com/al_maisan){:target="_blank"}
  * keybase: [https://keybase.io/al_maisan](https://keybase.io/al_maisan){:target="_blank"}
