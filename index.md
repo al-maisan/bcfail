@@ -15,7 +15,7 @@
  * keybase: [https://keybase.io/al_maisan](https://keybase.io/al_maisan){:target="_blank"}
 
 
-## I am hiring!
+## Sygnum is hiring!
 
  * Warsaw
    * [Backend software developer](https://web.tresorit.com/l#9RK7fuP9IBdZ9JKQJv-xwg){:target="_blank"}
