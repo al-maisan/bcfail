@@ -26,6 +26,7 @@
 
  * Remote (European time zones)
    * [Fullstack developer](https://web.tresorit.com/l#A8Ol3Q1aUUZsUX3VUXYBQw){:target="_blank"}
+   * [Web developer](https://web.tresorit.com/l#Oi2Xp6IQev9FwP77W3E9Sg){:target="_blank"}
 
  * Zürich
    * [Security engineer](https://web.tresorit.com/l#KY_FPe9AvGeqVsO_f5Y7UA){:target="_blank"}
