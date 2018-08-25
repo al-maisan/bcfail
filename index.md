@@ -10,7 +10,7 @@
 ## Play?
 
  * email: [muharem@linux.com](mailto:muharem@linux.com) ([`1E0A 2883 97AE 739E`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1E0A288397AE739E){:target="_blank"})
- * [Wanna learn about the blockchain?](https://web.tresorit.com/l#wQ7OdKar1BWQjNwU_S-0Iw){:target="_blank"}
+ * [blockchain, blockchain, blockchain! blockchain? blockchain.](https://web.tresorit.com/l#wQ7OdKar1BWQjNwU_S-0Iw){:target="_blank"}
  * [linkedin](https://www.linkedin.com/in/mhrnjad/){:target="_blank"}, [twitter](https://twitter.com/al_maisan){:target="_blank"}, [keybase](https://keybase.io/al_maisan){:target="_blank"}
 
 
