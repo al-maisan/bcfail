@@ -13,6 +13,7 @@
  * linkedin: [https://www.linkedin.com/in/mhrnjad/](https://www.linkedin.com/in/mhrnjad/){:target="_blank"}
  * twitter: [https://twitter.com/al_maisan](https://twitter.com/al_maisan){:target="_blank"}
  * keybase: [https://keybase.io/al_maisan](https://keybase.io/al_maisan){:target="_blank"}
+ * [Wanna learn about the blockchain?](https://web.tresorit.com/l#wQ7OdKar1BWQjNwU_S-0Iw){:target="_blank"}
 
 
 ## Sygnum is hiring!
