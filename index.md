@@ -4,12 +4,12 @@
 ## Work?
 
  * Chief technology officer (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"}
- * [LINKEDIN page](https://www.linkedin.com/in/mhrnjad/){:target="_blank"} &brvbar; &brvbar; email: [mh@sygnum.io](mailto:mh@sygnum.io) ([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
+ * [LINKEDIN page](https://www.linkedin.com/in/mhrnjad/){:target="_blank"} &#8226; email: [mh@sygnum.io](mailto:mh@sygnum.io) ([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
 
 
 ## Play?
 
- * email: [muharem@linux.com](mailto:muharem@linux.com) ([`1E0A 2883 97AE 739E`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1E0A288397AE739E){:target="_blank"}) &#x25BA; [twitter](https://twitter.com/al_maisan){:target="_blank"} &#x25BA; [keybase](https://keybase.io/al_maisan){:target="_blank"}
+ * email: [muharem@linux.com](mailto:muharem@linux.com) ([`1E0A 2883 97AE 739E`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1E0A288397AE739E){:target="_blank"}) &#8226; [twitter](https://twitter.com/al_maisan){:target="_blank"} &#8226; [keybase](https://keybase.io/al_maisan){:target="_blank"}
  * [Blockchain, blockchain, blockchain! Blockchain? Blockchain.](https://web.tresorit.com/l#wQ7OdKar1BWQjNwU_S-0Iw){:target="_blank"}
 
 
