@@ -3,7 +3,7 @@
 
 ## Work?
 
- * Chief bit flipper (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"}
+ * Chief bit flipper (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"} &#x25BA; &#x25BA; [LINKEDIN page](https://www.linkedin.com/in/mhrnjad/){:target="_blank"}
  * email: [mh@sygnum.io](mailto:mh@sygnum.io) ([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
 
 
