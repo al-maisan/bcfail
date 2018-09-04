@@ -4,7 +4,7 @@
 ## Work?
 
  * Chief technology officer (CTO) @ [Sygnum](https://www.sygnum.com/){:target="_blank"}
- * [LINKEDIN page](https://www.linkedin.com/in/mhrnjad/){:target="_blank"} &#8226; email: [mh@sygnum.io](mailto:mh@sygnum.io) ([`FA6B 95BC D189 F332`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0xFA6B95BCD189F332){:target="_blank"})
+ * [LinkedIn page](https://www.linkedin.com/in/mhrnjad/){:target="_blank"} &#8226; email: [mh@sygnum.it](mailto:mh@sygnum.it) ([`A777 33C1 870A 2C5A ED85`](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x33C1870A2C5AED85){:target="_blank"})
 
 
 ## Play?
