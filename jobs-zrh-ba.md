@@ -31,4 +31,4 @@ If this holds true, we want you on the Sygnum team.
 - Ensure that new requirements are consistent with the product scope and vision
 - Participate in the entire product development life cycle
 
-The ball is in your court if this is to be your next challenge -- and don't worry if you don't tick all the boxes. Please [send an email](mailto:marie.sieghold@sygnum.com) with a 1-page CV. Thank you.
+The ball is in your court if this is to be your next challenge -- and don't worry if you don't tick all the boxes. Please [send an email](mailto:mh@sygnum.it) with a 1-page CV. Thank you.
