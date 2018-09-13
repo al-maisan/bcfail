@@ -23,6 +23,7 @@
    * [Technical lead](https://web.tresorit.com/l#GJMYWEyNaEHYuotqUf3XKQ){:target="_blank"}
 
  * Remote (European time zones)
+   * [IT project manager](jobs-zrh-pm.md){:target="_blank"}
    * [Fullstack developer](https://web.tresorit.com/l#A8Ol3Q1aUUZsUX3VUXYBQw){:target="_blank"}
    * [Web developer](https://web.tresorit.com/l#Oi2Xp6IQev9FwP77W3E9Sg){:target="_blank"}
 
