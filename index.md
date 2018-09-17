@@ -32,5 +32,9 @@
    * [Infrastructure engineer](https://web.tresorit.com/l#fjvDf5Kv2nKv-1pyNEio5Q){:target="_blank"}
    * [Security engineer](https://web.tresorit.com/l#KY_FPe9AvGeqVsO_f5Y7UA){:target="_blank"}
 
+ * Junior engineers in ZRH / WAW
+   * [Security](https://web.tresorit.com/l#1eRwlkF2G0iiGQ4izpTolQ){:target="_blank"}
+   * [Infrastructure](https://web.tresorit.com/l#GMFRDXIxQDZE7dWuXMvTJQ){:target="_blank"}
+
 
 **Please note**: [commits to this page](https://github.com/al-maisan/bcfail/commits/master){:target="_blank"} were signed with [`1E0A288397AE739E`](https://pgp.cs.uu.nl/stats/1e0a288397ae739e.html){:target="_blank"} which is in the [strong set](https://pgp.cs.uu.nl/plot/){:target="_blank"}.
