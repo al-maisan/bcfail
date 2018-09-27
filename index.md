@@ -32,7 +32,7 @@
    * [Infrastructure engineer](https://web.tresorit.com/l#fjvDf5Kv2nKv-1pyNEio5Q){:target="_blank"}
    * [Security engineer](https://web.tresorit.com/l#KY_FPe9AvGeqVsO_f5Y7UA){:target="_blank"}
 
- * Junior engineers in ZRH / WAW
+ * Junior engineers in ZRH / WAW / SG
    * [Security](https://web.tresorit.com/l#1eRwlkF2G0iiGQ4izpTolQ){:target="_blank"}
    * [Infrastructure](https://web.tresorit.com/l#GMFRDXIxQDZE7dWuXMvTJQ){:target="_blank"}
 
