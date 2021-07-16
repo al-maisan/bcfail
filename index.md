@@ -4,7 +4,7 @@ About me:
 
 * LinkedIn: [https://www.linkedin.com/in/mhrnjad/](https://www.linkedin.com/in/mhrnjad/){:target="_blank"}
 * twitter: [https://twitter.com/al_maisan](https://twitter.com/al_maisan){:target="_blank"}
-* my ["crypto references" page](https://21.hn/crypto){:target="_blank"}
+* my ["crypto references" page](https://gitlab.com/al-maisan/cp/-/wikis/home){:target="_blank"}
 * proton mail: [muharem@pm.me](mailto:muharem@pm.me) ([`2BBD 821C A5B4 D35B`](https://pgp.surfnet.nl/pks/lookup?op=vindex&fingerprint=on&search=0x2BBD821CA5B4D35B){:target="_blank"})
 
 
