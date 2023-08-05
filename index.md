@@ -9,6 +9,3 @@ About me:
 
 
 **Please note**: [commits to this page](https://github.com/al-maisan/bcfail/commits/master){:target="_blank"} were signed with [`1E0A288397AE739E`](https://keys.openpgp.org/vks/v1/by-fingerprint/753B6ECF2B458FF3D19D568C1E0A288397AE739E){:target="_blank"}.
-
-
-[Mastodon account](https://bitcoinhackers.org/@muharem){:rel="me"}
