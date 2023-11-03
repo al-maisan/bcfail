@@ -2,6 +2,7 @@
 
 About me:
 
+* github: [https://github.com/al-maisan](https://github.com/al-maisan){:target="_blank"}
 * LinkedIn: [https://www.linkedin.com/in/mhrnjad/](https://www.linkedin.com/in/mhrnjad/){:target="_blank"}
 * twitter: [https://twitter.com/al_maisan](https://twitter.com/al_maisan){:target="_blank"}
 * my ["crypto references" page](https://gitlab.com/al-maisan/cp/-/wikis/home){:target="_blank"}
