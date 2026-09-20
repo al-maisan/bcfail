@@ -21,32 +21,22 @@ I am passionate about technology and a strategic thinker who has held technology
 
 *Oct 2024 – Present*
 
-Backend team lead and top individual contributor for the leading liquid-staking protocol in the [berachain](https://www.berachain.com/) ecosystem. Hired and led a team of 3 engineers across two workstreams — a production Berachain data and automation backend, and a pre-MVP Bitcoin statechain protocol — fostering a culture of reliable, on-time delivery of production-ready features.
-
-**Berachain backend platform**
+Backend team lead and top individual contributor for the leading liquid-staking protocol in the [berachain](https://www.berachain.com/) ecosystem — the largest single contributor to the backend across its two-year history. Grew the backend team from 1 to 3 engineers building a production Berachain data and automation platform, fostering a culture of reliable, on-time delivery of production-ready features.
 
 - Delivered a new backend in 4 months, enabling the company to launch its services after the berachain mainnet launch — and its points program ahead of the TGE for its own token — with full operational responsibility on AWS.
-- Built and operated ~10 Go indexer/keeper microservices (vault, price and reward indexers; harvesting, fee-claiming and auction keepers) on partitioned Postgres, integrating on-chain via multicall batching, nonce management and Safe-multisig automation.
-- Designed the platform's RPC reliability and cost layer — multi-provider failover with retryable rate-limit/transport error classification and job-cadence right-sizing that cut sustained RPC volume ~50% and held the fleet under providers' per-second caps — instrumented with per-host OTEL metrics and Grafana alerting.
-- Drove a **55% AWS cost reduction in one quarter** — reserved-instance coverage, instance right-sizing, and waste elimination across RDS, EC2/ECS and Lambda.
+- Ran the platform with **no production incident and no loss of user funds since launch** (Feb 2025), mainnet transaction-signing keepers operating reliably throughout, instrumented end-to-end with OTEL/AMP, Grafana and automated Slack alerting.
+- Built and operated ~14 services across EC2, Lambda and ECS Fargate over a **1.15 TB partitioned Postgres database holding ~2.7 billion rows**, each service authorised to write only its own schema and read its peers' as needed — least-privilege isolation by default.
+- Authored the Berachain/BSC event indexer — **~470 million on-chain events** across ~90 event types, growing ~12.4 million/month — and led the team that built vault and token discovery, price/TVL/APR aggregation across six external providers with outlier detection, and a REST API served entirely from precomputed schemas.
+- Owned the transaction-signing write path in production — harvesting across **310 vaults (~55k operations/month)**, dynamic fee adjustment, position rebalancing and iBERA/StakedIR withdrawals — via multicall batching, nonce management and Safe-multisig automation, with encrypted key custody backed by AWS Secrets Manager, DB-level locking across instances, and mainnet signing disabled outside production by construction.
+- Designed the platform's RPC reliability and cost layer — multi-provider failover with retryable rate-limit/transport error classification and job-cadence right-sizing that cut sustained RPC volume ~50% and held the fleet under providers' per-second caps — instrumented with per-host OTEL metrics and Grafana alerting; later replaced a $3,000/month single-vendor quote with a **~$300/month multi-provider mix**.
+- Drove a **56% AWS cost reduction** (Mar–May 2026, ~$8.6k → ~$3.8k per month, sustained through Sep 2026, ~$58k annualized) — orphaned-resource teardown, staging VPC and NAT gateway consolidation, Aurora I/O-Optimized migration, instance and read-replica right-sizing, observability retuning, and reserved-instance / savings-plan coverage.
 
-**Bitcoin statechain protocol** (*one of three primary contributors*)
+**Team**
 
-- Owned the wallet and client experience end-to-end, including the interactive CLI — turning a protocol skeleton into operable software, plus the demos used with prospective clients.
-- Delivered the on-chain integration milestone: a `bitcoind`-backed chain view and funding layer that moved the full deposit / cooperative-withdraw / unilateral-exit lifecycle from in-memory stubs to genuine, confirmed Bitcoin transactions.
-- Contributed the project's correctness infrastructure (reproducible-determinism and invariant-checking test harnesses) and an adversarial-review + post-mortem loop that caught fund-safety-critical defects (e.g. a CSV-timelock broadcast bug) before merge.
+- Hired two experienced backend engineers (Feb and Jun 2025) and developed the inherited junior research engineer into the primary author and owner of a production service; owned performance management and career guidance for the backend team.
+- When the berachain downturn came in Q1 2026, was tasked with laying off all three engineers in April 2026 despite their stellar performance; did so in a fair and professional manner, and have been the platform's sole engineer and operator since May 2026.
 
-**Engineering practice & tooling** (across both workstreams)
-
-Designed and operate the team's **multi-agent AI development pipeline** — taking a tracked issue to a pull request, applying review findings as verified follow-up patches, running an adversarial multi-perspective review, and triaging every open PR by ownership and state — so routine work ships pre-reviewed without trading away rigor. Design principles:
-
-- **Human-gated** — the automation drafts, builds, tests and reviews, but never commits, pushes, merges or approves on its own; speed comes from the preparation, not from removing the human.
-- **Adversarial review as a gate** — every change is examined from independent perspectives (correctness, security, failure-and-recovery, data consistency), catching fund-safety-critical defects that a single straight-read review misses.
-- **Local verification is the real gate** — every change is built, linted and run through the full suite — including determinism and real-node on-chain integration — on a clean checkout before merge, never trusting a green status alone.
-- **Cost-tiered by value** — mechanical and classification steps run on cheaper models; implementation and security-sensitive review run on the strongest.
-- **Post-mortem feedback loop** — each defect is logged with root cause and prevention in a shared bug-ledger, and recurring causes are promoted into the pipeline's own guidance so the same class of bug is caught earlier next time.
-
-Technologies used: go, rust, FROST, bitcoin, AWS, terraform, postgres, Claude Code
+Technologies used: go, AWS, terraform, postgres, Claude Code
 
 ### [bloXroute Labs](https://bloxroute.com/), remote — team lead (*contract*)
 
