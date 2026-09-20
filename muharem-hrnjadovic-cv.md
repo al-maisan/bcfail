@@ -10,7 +10,7 @@ I am passionate about technology and a strategic thinker who has held technology
 - **Crypto-finance** and blockchain
 - Cloud computing architecture
 - **Hire, grow and retain great talent**
-- **IT security** (CISSP), pre/post fail, intrusion detection, incident response
+- **IT security** (CISSP, lapsed), pre/post fail, intrusion detection, incident response
 - Explaining complex topics; consulting, teaching, public speaking
 - Dealing with C-level customers, partners, investors
 - Product security / strategy
@@ -125,7 +125,7 @@ Technologies used: elixir, mariadb
 
 *Nov 2016 – Jun 2018*
 
-Specializing in IT security, mission: make sure Google's strategic customers are secure, happy and productive in the Google cloud. Contributions to internal / external security systems (e.g. [Forseti](https://github.com/forseti-security/forseti-security)); Google Certified Professional – Cloud Architect.
+Specializing in IT security, mission: make sure Google's strategic customers are secure, happy and productive in the Google cloud. Contributions to internal / external security systems (e.g. [Forseti](https://github.com/forseti-security/forseti-security)); Google Certified Professional – Cloud Architect (lapsed).
 
 Technologies used: python, GCP
 
