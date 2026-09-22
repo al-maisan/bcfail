@@ -1,42 +1,44 @@
 # Muharem Hrnjadovic
 
-[m@21.hn](mailto:m@21.hn) • <https://21.hn/contact>
+[m@21.hn](mailto:m@21.hn) • [21.hn/contact](https://21.hn/contact) • [github.com/al-maisan](https://github.com/al-maisan) • [linkedin.com/in/mhrnjad](https://www.linkedin.com/in/mhrnjad/)
 
-I am passionate about technology and a strategic thinker who has held technology leadership positions (as a senior / principal engineer, software development manager, director of engineering, CTO) for more than a decade ([github](https://github.com/al-maisan), [LinkedIn](https://www.linkedin.com/in/mhrnjad/)).
+**Backend staff+ engineer and engineering leader, specializing in secure, high-scale crypto/finance systems.**
 
-## Skills
+Most recently backend team lead and top individual contributor at [Infrared Finance](https://infrared.finance/), the leading liquid-staking protocol on Berachain. Built and operated a production data platform with **zero production incidents and no loss of user funds since mainnet launch**, while cutting AWS costs by 56% and RPC spend by ~90%.
 
-- Software development
-- **Crypto-finance** and blockchain
-- Cloud computing architecture
-- **Hire, grow and retain great talent**
-- **IT security** (CISSP, lapsed), pre/post fail, intrusion detection, incident response
-- Explaining complex topics; consulting, teaching, public speaking
-- Dealing with C-level customers, partners, investors
-- Product security / strategy
+## Selected Impact
+
+- **Scale:** 1.15 TB partitioned Postgres, ~2.7 billion rows; indexed ~470M on-chain events across ~90 event types; ~14 services on EC2, Lambda, ECS Fargate.
+- **Reliability:** Incident-free operations since Feb 2025; transaction-signing keepers across 310 vaults (~55k ops/month) with encrypted AWS Secrets Manager custody.
+- **Cost:** 56% AWS reduction ($8.6k → $3.8k/month, ~$58k annualized); replaced $3k/month single-vendor RPC with ~$300 multi-provider mix.
+- **Team:** Grew backend from 1 to 3 engineers; hired, mentored, and ran performance management. Sole engineer/operator since May 2026.
+- **Security:** CISSP (lapsed); former Google Strategic Cloud Engineer focused on customer security; contributed to [Forseti](https://github.com/forseti-security/forseti-security).
+
+## Core Skills
+
+- **Backend & systems:** Go, Python, Rust, Elixir, Postgres, Kafka, RabbitMQ, Kubernetes
+- **Cloud & infra:** AWS, GCP, Terraform, OTEL/Grafana observability, cost optimization
+- **Crypto/finance:** EVM indexing, DeFi, transaction signing/multisig, price/TVL/APR aggregation, MEV bundling, Bitcoin RBF
+- **Security:** Threat modeling, intrusion detection, incident response, least-privilege architecture
+- **Leadership:** Hiring, team growth, technical strategy, C-level and investor communication
 
 ## Experience
 
-### [Infrared Finance](https://infrared.finance/), remote — backend team lead (*contract*)
+### [Infrared Finance](https://infrared.finance/), remote — Backend Team Lead (*contract*)
 
 *Oct 2024 – Present*
 
-Backend team lead and top individual contributor for the leading liquid-staking protocol in the [berachain](https://www.berachain.com/) ecosystem — the largest single contributor to the backend across its two-year history. Grew the backend team from 1 to 3 engineers building a production Berachain data and automation platform, fostering a culture of reliable, on-time delivery of production-ready features.
+Backend team lead and top individual contributor for the leading liquid-staking protocol in the Berachain ecosystem. Delivered a new backend in 4 months for mainnet launch, with full operational ownership on AWS.
 
-- Delivered a new backend in 4 months, enabling the company to launch its services after the berachain mainnet launch — and its points program ahead of the TGE for its own token — with full operational responsibility on AWS.
-- Ran the platform with **no production incident and no loss of user funds since launch** (Feb 2025), mainnet transaction-signing keepers operating reliably throughout, instrumented end-to-end with OTEL/AMP, Grafana and automated Slack alerting.
-- Built and operated \~14 services across EC2, Lambda and ECS Fargate over a **1.15 TB partitioned Postgres database holding \~2.7 billion rows**, each service authorised to write only its own schema and read its peers' as needed — least-privilege isolation by default.
-- Authored the Berachain/BSC event indexer — **\~470 million on-chain events** across \~90 event types, growing \~12.4 million/month — and led the team that built vault and token discovery, price/TVL/APR aggregation across six external providers with outlier detection, and a REST API served entirely from precomputed schemas.
-- Owned the transaction-signing write path in production — harvesting across **310 vaults (\~55k operations/month)**, dynamic fee adjustment, position rebalancing and iBERA/StakedIR withdrawals — via multicall batching, nonce management and Safe-multisig automation, with encrypted key custody backed by AWS Secrets Manager.
-- Designed the platform's RPC reliability and cost layer — multi-provider failover with retryable rate-limit/transport error classification and job-cadence right-sizing that cut sustained RPC volume \~50% and held the fleet under providers' per-second caps — instrumented with per-host OTEL metrics and Grafana alerting; later replaced a $3,000/month single-vendor quote with a **\~$300/month multi-provider mix**.
-- Drove a **56% AWS cost reduction** (Mar–May 2026, \~$8.6k → \~$3.8k per month, sustained through Sep 2026, \~$58k annualized) — orphaned-resource teardown, staging VPC and NAT gateway consolidation, Aurora I/O-Optimized migration, instance and read-replica right-sizing, observability retuning, and reserved-instance / savings-plan coverage.
+- Built and operated ~14 services over a **1.15 TB partitioned Postgres database holding ~2.7 billion rows**, with schema-level least-privilege isolation.
+- Authored the Berachain/BSC event indexer, processing **~470 million on-chain events** across ~90 event types, growing ~12.4 million/month.
+- Owned the transaction-signing write path: harvesting across **310 vaults (~55k operations/month)**, dynamic fee adjustment, rebalancing, and iBERA/StakedIR withdrawals via multicall batching, nonce management, and Safe-multisig automation.
+- Designed RPC reliability and cost layer: multi-provider failover with retryable error classification and cadence right-sizing, cutting sustained RPC volume ~50% and replacing a $3k/month single-vendor bill with a ~$300 multi-provider mix.
+- Drove a **56% AWS cost reduction** (Mar–May 2026, ~$8.6k → ~$3.8k/month, sustained through Sep 2026, ~$58k annualized) through orphaned-resource teardown, VPC/NAT consolidation, Aurora I/O-Optimized migration, right-sizing, and reserved-instance coverage.
+- Hired two experienced backend engineers and developed the inherited junior research engineer into the primary owner of a production service; owned performance management and career guidance.
+- Since May 2026, the platform's sole engineer and operator.
 
-**Team**
-
-- Hired two experienced backend engineers (Feb and Jun 2025) and developed the inherited junior research engineer into the primary author and owner of a production service; owned performance management and career guidance for the backend team.
-- When the berachain downturn came in Q1 2026, was tasked with laying off all three engineers in April 2026 despite their stellar performance; did so in a fair and professional manner, and have been the platform's sole engineer and operator since May 2026.
-
-Technologies used: go, AWS, terraform, postgres, Claude Code
+*Technologies:* Go, AWS, Terraform, Postgres, Claude Code
 
 ### [bloXroute Labs](https://bloxroute.com/), remote — team lead (*contract*)
 
@@ -145,5 +147,9 @@ Diplom-Informatiker (Univ.) from the University of Passau (= master's degree in 
 
 ## Languages
 
-- Native / bilingual proficiency in German and English
-- **Formal**: go, python, elixir, erlang, rust, C++
+- German — native / bilingual
+- English — native / bilingual
+
+## Technologies
+
+- Go, Python, Elixir, Erlang, Rust, C++
