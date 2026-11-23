@@ -22,6 +22,11 @@ Most recently backend team lead and top individual contributor at [Infrared Fina
 - **Security:** Threat modeling, intrusion detection, incident response, least-privilege architecture
 - **Leadership:** Hiring, team growth, technical strategy, C-level and investor communication
 
+## Open Source
+
+- **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
+- **[gmt-mail](https://github.com/al-maisan/gmt-mail):** Personalized bulk email (mail merge) from the terminal over SMTP with mandatory TLS. Validation and dry-run before sending, retries and reconnects; a single Go binary packaged for Homebrew, Ubuntu PPA and Fedora COPR.
+
 ## Experience
 
 ### [Infrared Finance](https://infrared.finance/), remote — Backend Team Lead (*contract*)
