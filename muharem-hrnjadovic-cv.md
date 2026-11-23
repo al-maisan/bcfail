@@ -22,6 +22,8 @@ Most recently backend team lead and top individual contributor at [Infrared Fina
 - **Security:** Threat modeling, intrusion detection, incident response, least-privilege architecture
 - **Leadership:** Hiring, team growth, technical strategy, C-level and investor communication
 
+<div style="page-break-after: always;"></div>
+
 ## Open Source
 
 - **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
@@ -44,6 +46,8 @@ Backend team lead and top individual contributor for the leading liquid-staking 
 - Since May 2026, the platform's sole engineer and operator.
 
 *Technologies:* Go, AWS, Terraform, Postgres, Claude Code
+
+<div style="page-break-after: always;"></div>
 
 ### [bloXroute Labs](https://bloxroute.com/), remote — team lead (*contract*)
 
@@ -77,6 +81,8 @@ Responsible for product delivery with a focus on technical strategy and engineer
 - represented the organization/project toward technology partners and (potential) investors
 
 Technologies used: go, rust, postgres, vault, kubernetes, ICP
+
+<div style="page-break-after: always;"></div>
 
 ### evrynet, remote — CTO (*contract*)
 
@@ -115,6 +121,8 @@ Member of Kraken's first big data team, responsible for the design and implement
 - live replication of relational databases to Apache kafka streams and the processing of such streams
 
 Technologies used: go, python, mariadb, apache kafka + airflow
+
+<div style="page-break-after: always;"></div>
 
 ### Sygnum AG, Zürich — CTO / Technical Adviser
 
