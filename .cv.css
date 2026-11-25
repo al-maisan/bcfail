@@ -1,0 +1,32 @@
+@page {
+  size: A4;
+  margin: 15mm 16mm 16mm 16mm;
+  @bottom-right { content: counter(page) " / " counter(pages); font-size: 7.5pt; color: #999; }
+}
+html { font-size: 10pt; }
+body {
+  font-family: "DejaVu Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.3pt; line-height: 1.42; color: #202020; margin: 0;
+}
+h1 {
+  font-size: 23pt; line-height: 1.05; font-weight: 700; letter-spacing: -0.4pt;
+  margin: 0 0 2mm 0; color: #111;
+}
+h1 + p { font-size: 8.2pt; color: #555; margin: 0 0 1mm 0; word-spacing: 1px; }
+h1 + p + p { font-size: 9.6pt; }
+h2 {
+  font-size: 8.6pt; text-transform: uppercase; letter-spacing: 1.1pt; font-weight: 700;
+  color: #2b4a6f; margin: 6mm 0 2mm 0; padding-bottom: 1mm;
+  border-bottom: 0.6pt solid #d3dae2; break-after: avoid;
+}
+h3 { font-size: 10pt; font-weight: 700; margin: 4.5mm 0 0.6mm 0; break-after: avoid; color: #111; }
+h3 + p { margin-top: 0.3mm; }
+p { margin: 1.4mm 0; orphans: 2; widows: 2; }
+ul { margin: 1.4mm 0 2mm 0; padding-left: 5mm; }
+li { margin: 0.8mm 0; }
+li::marker { color: #2b4a6f; }
+a { color: #24578c; text-decoration: none; }
+em { color: #5a5a5a; font-style: normal; font-size: 8.4pt; }
+strong { color: #000; font-weight: 700; }
+h3 em { font-style: italic; font-weight: 400; color: #66707a; font-size: 9pt; }
+hr { border: 0; border-top: 0.6pt solid #e2e2e2; margin: 3mm 0; }

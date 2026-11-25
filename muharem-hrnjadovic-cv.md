@@ -22,13 +22,6 @@ Most recently backend team lead and top individual contributor at [Infrared Fina
 - **Security:** Threat modeling, intrusion detection, incident response, least-privilege architecture
 - **Leadership:** Hiring, team growth, technical strategy, C-level and investor communication
 
-<div style="page-break-after: always;"></div>
-
-## Open Source
-
-- **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
-- **[gmt-mail](https://github.com/al-maisan/gmt-mail):** Personalized bulk email (mail merge) from the terminal over SMTP with mandatory TLS. Validation and dry-run before sending, retries and reconnects; a single Go binary packaged for Homebrew, Ubuntu PPA and Fedora COPR.
-
 ## Experience
 
 ### [Infrared Finance](https://infrared.finance/), remote — Backend Team Lead (*contract*)
@@ -46,8 +39,6 @@ Backend team lead and top individual contributor for the leading liquid-staking 
 - Since May 2026, the platform's sole engineer and operator.
 
 *Technologies:* Go, AWS, Terraform, Postgres
-
-<div style="page-break-after: always;"></div>
 
 ### [bloXroute Labs](https://bloxroute.com/), remote — team lead (*contract*)
 
@@ -79,8 +70,6 @@ Responsible for product delivery with a focus on technical strategy and engineer
 - Represented the organization/project toward technology partners and (potential) investors.
 
 *Technologies:* Go, Rust, Postgres, Vault, Kubernetes, ICP
-
-<div style="page-break-after: always;"></div>
 
 ### evrynet, remote — CTO (*contract*)
 
@@ -120,8 +109,6 @@ Member of Kraken's first big-data team, responsible for the design and implement
 
 *Technologies:* Go, Python, MariaDB, Apache Kafka, Airflow
 
-<div style="page-break-after: always;"></div>
-
 ### Sygnum AG, Zürich — CTO / Technical Adviser
 
 *Jul 2018 – Jan 2019*
@@ -151,6 +138,11 @@ Hired as the director of engineering to build and manage the engineering team an
 **Achievements:** Built a top-notch software engineering team (20 heads) and delivered a clean, maintainable and secure Monetas crypto-transaction platform, developed from scratch in Go.
 
 *Technologies:* Go, Python, Postgres
+
+## Open Source
+
+- **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
+- **[gmt-mail](https://github.com/al-maisan/gmt-mail):** Personalized bulk email (mail merge) from the terminal over SMTP with mandatory TLS. Validation and dry-run before sending, retries and reconnects; a single Go binary packaged for Homebrew, Ubuntu PPA and Fedora COPR.
 
 ## Degree
 

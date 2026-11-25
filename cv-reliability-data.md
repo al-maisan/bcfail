@@ -12,7 +12,7 @@ Most recently backend team lead and top individual contributor at [Infrared Fina
 - **Correctness:** Owned the transaction-signing write path — 310 vaults, ~55k operations/month — with nonce management, multicall batching and Safe-multisig automation.
 - **Reliability:** Incident-free operations since Feb 2025; RPC multi-provider failover with retryable-error classification.
 - **Cost:** 56% AWS reduction ($8.6k → $3.8k/month, ~$58k annualized); RPC bill $3k → ~$300/month.
-- **Security:** CISSP (lapsed); former Google Strategic Cloud Engineer focused on customer security; contributed to [Forseti](https://github.com/forseti-security/forseti-security).
+- **Security:** Formerly CISSP-certified; former Google Strategic Cloud Engineer focused on customer security; contributed to [Forseti](https://github.com/forseti-security/forseti-security).
 
 ## Core Skills
 
@@ -21,13 +21,6 @@ Most recently backend team lead and top individual contributor at [Infrared Fina
 - **Ops:** AWS, GCP, Terraform, Kubernetes, OTEL/Grafana, incident response, cost optimization
 - **Crypto:** EVM indexing, transaction signing/multisig, rebalancing, price/TVL aggregation
 - **Leadership:** Hiring, mentoring, performance management, technical strategy
-
-<div style="page-break-after: always;"></div>
-
-## Open Source
-
-- **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
-- **[gmt-mail](https://github.com/al-maisan/gmt-mail):** Personalized bulk email (mail merge) from the terminal over SMTP with mandatory TLS. Validation and dry-run before sending, retries and reconnects; a single Go binary packaged for Homebrew, Ubuntu PPA and Fedora COPR.
 
 ## Experience
 
@@ -44,8 +37,6 @@ Backend team lead and top individual contributor for the leading liquid-staking 
 - Hired two backend engineers and developed a junior engineer into primary owner of a production service; owned performance management. Sole engineer and operator since May 2026.
 
 *Technologies:* Go, AWS, Terraform, Postgres, Kafka
-
-<div style="page-break-after: always;"></div>
 
 ### [bloXroute Labs](https://bloxroute.com/), remote — team lead (*contract*)
 
@@ -74,8 +65,6 @@ Hybrid-exchange system design with a decentralized funding subsystem on [ICP](ht
 
 *Technologies:* Go, Rust, Postgres, Vault, Kubernetes, ICP
 
-<div style="page-break-after: always;"></div>
-
 ### evrynet, remote — CTO (*contract*)
 
 *Nov 2021 – Jun 2022*
@@ -100,8 +89,6 @@ In Kraken's first big-data team: reconciliation of on-chain, funding and trading
 
 *Technologies:* Go, Python, MariaDB, Kafka, Airflow
 
-<div style="page-break-after: always;"></div>
-
 ### Sygnum AG, Zürich — CTO / Technical Adviser
 
 *Jul 2018 – Jan 2019*
@@ -125,6 +112,11 @@ Security-focused customer engineering in Google Cloud; contributions to security
 Built and managed a 20-person engineering team and delivered a crypto-transaction platform from scratch.
 
 *Technologies:* Go, Python, Postgres
+
+## Open Source
+
+- **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
+- **[gmt-mail](https://github.com/al-maisan/gmt-mail):** Personalized bulk email (mail merge) from the terminal over SMTP with mandatory TLS. Validation and dry-run before sending, retries and reconnects; a single Go binary packaged for Homebrew, Ubuntu PPA and Fedora COPR.
 
 ## Degree
 
