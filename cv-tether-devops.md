@@ -18,7 +18,7 @@ Most recently backend team lead and top individual contributor at [Infrared Fina
 
 - **Data:** Postgres (partitioning, indexing, I/O tuning at 2.7B-row scale), Kafka, RabbitMQ
 - **Languages:** Go, Python; Rust (working knowledge); Elixir, SQL
-- **Cloud & infra:** Terraform (IaC, multi-environment), Kubernetes, GCP (incl. GKE, IAM), AWS, Docker, GitHub Actions, Linux, Bash, networking
+- **Cloud & infra:** Terraform (IaC, multi-environment), Kubernetes, AWS, GCP (IAM, networking), Docker, GitHub Actions, Linux, Bash
 - **Observability & ops:** metrics/logs/alerting (OTEL/Grafana), incident response, cost optimization
 - **Crypto:** EVM indexing, transaction signing/multisig, rebalancing, price/TVL aggregation
 - **Leadership:** Hiring, mentoring, performance management, technical strategy
