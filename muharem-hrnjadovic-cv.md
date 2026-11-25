@@ -12,22 +12,15 @@ Most recently backend team lead and top individual contributor at [Infrared Fina
 - **Reliability:** Incident-free operations since Feb 2025; transaction-signing keepers across 310 vaults (~55k ops/month) with encrypted AWS Secrets Manager custody.
 - **Cost:** 56% AWS reduction ($8.6k → $3.8k/month, ~$58k annualized); replaced $3k/month single-vendor RPC with ~$300 multi-provider mix.
 - **Team:** Grew backend from 1 to 3 engineers; hired, mentored, and ran performance management. Sole engineer/operator since May 2026.
-- **Security:** CISSP (lapsed); former Google Strategic Cloud Engineer focused on customer security; contributed to [Forseti](https://github.com/forseti-security/forseti-security).
+- **Security:** Formerly CISSP-certified; former Google Strategic Cloud Engineer focused on customer security; contributed to [Forseti](https://github.com/forseti-security/forseti-security).
 
 ## Core Skills
 
-- **Backend & systems:** Go, Python, Rust, Elixir, Postgres, Kafka, RabbitMQ, Kubernetes
+- **Backend & systems:** Go, Python; Rust (working knowledge); Elixir, Postgres, Kafka, RabbitMQ, Kubernetes
 - **Cloud & infra:** AWS, GCP, Terraform, OTEL/Grafana observability, cost optimization
 - **Crypto/finance:** EVM indexing, DeFi, transaction signing/multisig, price/TVL/APR aggregation, MEV bundling, Bitcoin RBF
 - **Security:** Threat modeling, intrusion detection, incident response, least-privilege architecture
 - **Leadership:** Hiring, team growth, technical strategy, C-level and investor communication
-
-<div style="page-break-after: always;"></div>
-
-## Open Source
-
-- **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
-- **[gmt-mail](https://github.com/al-maisan/gmt-mail):** Personalized bulk email (mail merge) from the terminal over SMTP with mandatory TLS. Validation and dry-run before sending, retries and reconnects; a single Go binary packaged for Homebrew, Ubuntu PPA and Fedora COPR.
 
 ## Experience
 
@@ -45,30 +38,26 @@ Backend team lead and top individual contributor for the leading liquid-staking 
 - Hired two experienced backend engineers and developed the inherited junior research engineer into the primary owner of a production service; owned performance management and career guidance.
 - Since May 2026, the platform's sole engineer and operator.
 
-*Technologies:* Go, AWS, Terraform, Postgres, Claude Code
-
-<div style="page-break-after: always;"></div>
+*Technologies:* Go, AWS, Terraform, Postgres
 
 ### [bloXroute Labs](https://bloxroute.com/), remote — team lead (*contract*)
 
 *Apr 2024 – Oct 2024*
 
-MEV-ish experiments with [jito](https://www.jito.network/) solana [bundles](https://github.com/jito-labs/searcher-examples); implemented a backend that packages solana transactions into bundles and sends these to jito.
+Built a backend that packages Solana transactions into bundles for [Jito](https://www.jito.network/) searchers ([reference](https://github.com/jito-labs/searcher-examples)); the "superbundler" service generated $500k in profit before I left the company.
 
-The "superbundler" service described above had generated $500,000 in profits by the time I left the company.
-
-Technologies used: solana, go, gRPC
+*Technologies:* Go, Solana, gRPC
 
 ### Pareto project, remote — lead dev (*contract*)
 
 *Sep 2023 – Feb 2024*
 
-Responsible for the system architecture and development of the first open source publishing platform for uncensorable, investigative citizen journalism powered by bitcoin/lightning and [nostr](https://nostr.com/). Major contributions:
+Responsible for the system architecture and development of the first open-source publishing platform for uncensorable, investigative citizen journalism, powered by Bitcoin/Lightning and [Nostr](https://nostr.com/). Major contributions:
 
-- technical roadmap and prototyping
-- system design of a peer-2-peer backend based on nostr
+- Technical roadmap and prototyping.
+- System design of a peer-to-peer backend based on Nostr.
 
-Technologies used: go, postgres, nostr
+*Technologies:* Go, Postgres, Nostr
 
 ### [Helix Markets](https://github.com/Helix-ex/helix-markets), remote — CTO (*contract*)
 
@@ -76,13 +65,11 @@ Technologies used: go, postgres, nostr
 
 Responsible for product delivery with a focus on technical strategy and engineering culture. Major achievements:
 
-- system design of a hybrid exchange with a decentralized funding subsystem based on the [ICP chain](https://internetcomputer.org/) and an off-chain trading engine with a strong focus on security
-- hired, led and advised the team that wrote the ICP smart contracts and implemented the exchange backend
-- represented the organization/project toward technology partners and (potential) investors
+- System design of a hybrid exchange with a decentralized funding subsystem based on the [ICP chain](https://internetcomputer.org/) and an off-chain trading engine with a strong focus on security.
+- Hired, led and advised the team that wrote the ICP smart contracts and implemented the exchange backend.
+- Represented the organization/project toward technology partners and (potential) investors.
 
-Technologies used: go, rust, postgres, vault, kubernetes, ICP
-
-<div style="page-break-after: always;"></div>
+*Technologies:* Go, Rust, Postgres, Vault, Kubernetes, ICP
 
 ### evrynet, remote — CTO (*contract*)
 
@@ -90,59 +77,57 @@ Technologies used: go, rust, postgres, vault, kubernetes, ICP
 
 Responsible for product delivery with a focus on technical strategy and engineering culture. Major contributions:
 
-- shaped evrynet's product strategy resulting in a number of R&D products being pursued in a lean, iterative and experimental fashion
-  - [floodgate](https://gitlab.com/Evrynet/floodgate/floodgate-api), a REST API server based on the serum DEX (now [OpenBook](https://github.com/openbook-dex/program))
+- Shaped evrynet's product strategy, resulting in a number of R&D products being pursued in a lean, iterative and experimental fashion:
+  - [floodgate](https://gitlab.com/Evrynet/floodgate/floodgate-api), a REST API server based on the Serum DEX (now [OpenBook](https://github.com/openbook-dex/program))
   - `sp1g0t`, a trading bot that demonstrates the floodgate API usage
   - goldrush, a web UI DEX for retail users based on floodgate
-- hired, led and advised the team that implemented floodgate and `sp1g0t`
+- Hired, led and advised the team that implemented floodgate and `sp1g0t`.
 
-Technologies used: go, typescript, postgres, serum, solana
+*Technologies:* Go, TypeScript, Postgres, Serum, Solana
 
 ### Relai AG, Zürich/remote — lead dev (*contract*)
 
 *Apr 2021 – Nov 2021*
 
-Responsible for the system design and ultimate delivery of a crypto-broker system trading on multiple exchanges with a best price guarantee. The broker was designed as a collection of services that were orchestrated in a [message driven and reactive fashion](https://www.reactivemanifesto.org/). Major contributions:
+Responsible for the system design and ultimate delivery of a crypto-broker system trading on multiple exchanges with a best price guarantee. The broker was designed as a collection of services orchestrated in a [message-driven and reactive fashion](https://www.reactivemanifesto.org/). Major contributions:
 
-- system design of the broker including aspects like security and operations, selection of the tools and technologies
-- leading / advising the team that implemented the broker
-- implementation of the broker's crypto service that constructs the actual [bitcoin RBF transactions](https://bitcoinops.org/en/topics/replace-by-fee/) and pays out the bitcoin purchased to Relai customers
+- System design of the broker, including security and operations, and selection of tools and technologies.
+- Leading and advising the team that implemented the broker.
+- Implementation of the broker's crypto service that constructs the actual [Bitcoin RBF transactions](https://bitcoinops.org/en/topics/replace-by-fee/) and pays out the Bitcoin purchased to Relai customers.
 
-Technologies used: go, python, postgres, kubernetes, rabbitmq
+*Technologies:* Go, Python, Postgres, Kubernetes, RabbitMQ
 
 ### Kraken, remote — senior software engineer
 
 *Mar 2019 – Aug 2021*
 
-Member of Kraken's first big data team, responsible for the design and implementation of tools for the
+Member of Kraken's first big-data team, responsible for the design and implementation of tools for:
 
-- reconciliation of various financial streams and data sources (on-chain, funding and trading databases)
-- ETL of financial data and serving it to the accounting team
-- live replication of relational databases to Apache kafka streams and the processing of such streams
+- Reconciliation of various financial streams and data sources (on-chain, funding and trading databases).
+- ETL of financial data and serving it to the accounting team.
+- Live replication of relational databases to Apache Kafka streams and the processing of such streams.
 
-Technologies used: go, python, mariadb, apache kafka + airflow
-
-<div style="page-break-after: always;"></div>
+*Technologies:* Go, Python, MariaDB, Apache Kafka, Airflow
 
 ### Sygnum AG, Zürich — CTO / Technical Adviser
 
 *Jul 2018 – Jan 2019*
 
-Responsible for product / service delivery with a focus on technical strategy and engineering culture. Laid the technical foundations by
+Responsible for product and service delivery with a focus on technical strategy and engineering culture. Laid the technical foundations by:
 
-- selecting the main backend development language: [Elixir](https://elixir-lang.org/) and signing on [Saša Jurić](https://www.manning.com/books/elixir-in-action) as an adviser
-- driving the development center strategy and hiring the first engineers in Warsaw, Poland
-- designing version 1 of Sygnum's system architecture
+- Selecting the main backend development language ([Elixir](https://elixir-lang.org/)) and signing on [Saša Jurić](https://www.manning.com/books/elixir-in-action) as an adviser.
+- Driving the development center strategy and hiring the first engineers in Warsaw, Poland.
+- Designing version 1 of Sygnum's system architecture.
 
-Technologies used: elixir, mariadb
+*Technologies:* Elixir, MariaDB
 
 ### Google, Zürich — Strategic Cloud Engineer
 
 *Nov 2016 – Jun 2018*
 
-Specializing in IT security, mission: make sure Google's strategic customers are secure, happy and productive in the Google cloud. Contributions to internal / external security systems (e.g. [Forseti](https://github.com/forseti-security/forseti-security)); Google Certified Professional – Cloud Architect (lapsed).
+Specializing in IT security; mission: make sure Google's strategic customers are secure, happy and productive in the Google Cloud. Contributions to internal/external security systems (e.g. [Forseti](https://github.com/forseti-security/forseti-security)); formerly Google Certified Professional – Cloud Architect.
 
-Technologies used: python, GCP
+*Technologies:* Python, GCP
 
 ### Monetas, Zug — CTO
 
@@ -150,9 +135,14 @@ Technologies used: python, GCP
 
 Hired as the director of engineering to build and manage the engineering team and assumed the CTO position a year later.
 
-**Achievements**: built a top notch software engineering team (20 heads) and delivered a clean, maintainable and secure Monetas crypto-transaction platform (developed from scratch in go)
+**Achievements:** Built a top-notch software engineering team (20 heads) and delivered a clean, maintainable and secure Monetas crypto-transaction platform, developed from scratch in Go.
 
-Technologies used: go, python, postgres
+*Technologies:* Go, Python, Postgres
+
+## Open Source
+
+- **[node-tracker](https://github.com/al-maisan/node-tracker):** Telegram alerts when a Bitcoin node falls behind the chain tip and when it catches up. Debounced alerts, no lost alerts, secure-by-default config; a single static Go binary packaged for Ubuntu PPA, Fedora COPR, Homebrew, `.deb` and container.
+- **[gmt-mail](https://github.com/al-maisan/gmt-mail):** Personalized bulk email (mail merge) from the terminal over SMTP with mandatory TLS. Validation and dry-run before sending, retries and reconnects; a single Go binary packaged for Homebrew, Ubuntu PPA and Fedora COPR.
 
 ## Degree
 
@@ -162,7 +152,3 @@ Diplom-Informatiker (Univ.) from the University of Passau (= master's degree in 
 
 - German — native / bilingual
 - English — native / bilingual
-
-## Technologies
-
-- Go, Python, Elixir, Erlang, Rust, C++
